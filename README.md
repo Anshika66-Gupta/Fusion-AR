@@ -12,7 +12,7 @@ And even take care of the environment for you :)
 **Is that even possible?**
 Surprising isn’t it?
 
-![Top 10 Position Certificate](https://github.com/adityathakurxd/fusionar/blob/master/hackathon%20%281%29.png)
+![Top 10 Position Certificate](Certificate.jpeg)
 
 ## What is it?
 
@@ -51,4 +51,4 @@ We plan to implement 3D printing to our product line in order to save our planet
 
 **App Apk** [link](http://bit.ly/fusionarapp)
 
-![Top 10 Position](https://user-images.githubusercontent.com/53579386/95717822-2b37d980-0c8b-11eb-9671-d0ede1b2cfa8.jpg)
+![Top 10 Position](Certificate.jpeg)
